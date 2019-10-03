@@ -3,3 +3,7 @@
 - Open UTD - https://lug.utdallas.edu
 - IEEE UTD - https://ieeeutd.org
 - Animation Guild - https://animationutd.com/
+- ACM UTD - https://www.acmutd.co
+- DECA UTD - https://www.utddeca.com/
+- Archery UTD - https://www.utdallas.edu/urec/competitive/club/
+- Artificial Intelligence Society - https://aisutd.org/
