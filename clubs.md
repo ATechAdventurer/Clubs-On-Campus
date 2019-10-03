@@ -2,3 +2,4 @@
 - Extended Reality Society - https://xrs.utdmaker.space
 - Open UTD - https://lug.utdallas.edu
 - IEEE UTD - https://ieeeutd.org
+- Animation Guild - https://animationutd.com/
